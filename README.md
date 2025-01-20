@@ -29,3 +29,15 @@ While Zenware offers a wide range of features, **please be aware of the ethical 
 
 For more details and updates, feel free to join the Zenware community on Discord:  
 [Zenware Discord Server](https://discord.gg/zenwarebylars)
+
+---
+
+# Scripts Status
+
+Stay informed about the current status of Zenware scripts for *Fisch* on Roblox. This section will provide real-time information regarding whether the scripts are online and working or experiencing issues.
+
+## Current Status: **Online**
+
+- **Online**: All scripts are fully operational. You can use all features of Zenware without any issues.
+- **Offline**: Some or all features may be temporarily unavailable. We are actively working to fix any issues and will update this status once the scripts are back online.
+
