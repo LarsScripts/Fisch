@@ -4,7 +4,7 @@ Zenware is a powerful and feature-rich script hub designed to enhance your exper
 
 ## Key Features:
 - **Auto Fish**: Automates the fishing process, saving you time and effort.
-- **Freeze Player**: Temporarily freezes the movements of other players in the game.
+- **Freeze Player**: Temporarily freezes the movement of yourself in the game.
 - **Anti AFK**: Prevents your character from being kicked for inactivity.
 - **Shake Button Size Changer**: Customize the size of buttons in the interface for better accessibility.
 - **Teleportation**:
@@ -25,7 +25,7 @@ Zenware is a powerful and feature-rich script hub designed to enhance your exper
 - **Chat Bypasser**: Bypass certain chat restrictions (be mindful of game rules regarding this feature).
 
 ## Important Note:
-While Zenware offers a wide range of features, **please be aware of the ethical considerations** when using scripts or exploits. Exploiting in games can lead to unintended consequences, including bans or penalties from the game or platform. Always use scripts responsibly, respect the game's community, and be sure to follow Roblox's Terms of Service to maintain a positive gaming environment.
+While Zenware offers a wide range of features, **please be aware of the ethical considerations** when using scripts or exploits. Exploiting in games can lead to unfairness. Always use scripts responsibly, respect the game's community, and be sure to follow Roblox's Terms of Service to maintain a positive gaming environment.
 
 For more details and updates, feel free to join the Zenware community on Discord:  
 [Zenware Discord Server](https://discord.gg/zenwarebylars)
